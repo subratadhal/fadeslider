@@ -1,0 +1,31 @@
+header, section, article, footer{ margin:0; padding:0; border:0;}
+body{ margin:0; padding:0; border:0; background-color: #e1e1e1;}
+
+h1, h2{ font-family: 'Aladin', cursive;}
+h1{ width:100%; padding:2% 0; margin:0 auto; text-align:center; display:block; color:#95904e; font-size:54px;  font-weight:700; text-shadow:0px -1px 0px #000;}
+h1 span{ font-size:12px; font-weight:normal;}
+
+h2{ width:100%; padding:3% 0; margin:0 auto; text-align:center; display:block; color:#666; font-size:40px;  text-shadow:0px -1px 0px #333;}
+
+
+#container{ width:100%; min-height:500px; height:auto; background:url(../images/page/background1.jpg); display:block; }
+
+.divider{ width:100%; display:block; height:60px; border-bottom:8px solid #999;}
+.feature{ width:100%; list-style:none; display:block; margin:0; padding:0 0 40px 0; }
+.feature li{ width:100%; text-align:center; font:16px normal Arial, Helvetica, sans-serif; padding:20px 0; display:block;}
+
+.footer{ width:100%; padding:40px 0 20px 0; text-align:center; font:14px normal Arial, Helvetica, sans-serif; color:#666; background-color:#333}
+.github-link{
+    width: 100%;
+    border-top: 1px solid #ccc;
+    text-align: center;
+}
+.github-link p{
+    padding: 0px 0 25px;
+    font:16px normal Arial, Helvetica, sans-serif;
+    display: block;
+    text-align: center;
+}
+.github-link img{
+    padding: 25px 0 0;
+}
