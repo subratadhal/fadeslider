@@ -28,8 +28,6 @@
 <br />
 <br />
 <h3>Link files</h3>
-<br />
-<br />
 <pre class="line-numbers">
 <code class="language-html">
 &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"&gt; &lt;/script&gt;
@@ -39,8 +37,6 @@
 <br />
 <br />
 <h3>Add Markup</h3>
-<br />
-<br />
 <pre class="line-numbers">
 <code class="language-html">
 &lt;ul id="slider"&gt;
@@ -51,20 +47,14 @@
 </code>
 </pre>
 <br />
-<br />
 <h3>Add CSS</h3>
-<br />
-<br />
 <pre class="line-numbers">
 <code class="language-css">
 &lt;link href="css/style.css" rel="stylesheet" type="text/css" /&gt;
 </code>
 </pre>
 <br />
-<br />
 <h3>Hook up the slideshow</h3>
-<br />
-<br />
 <pre class="line-numbers">
 <code class="language-html">
 &lt;script&gt;
@@ -75,10 +65,7 @@
 </code>
 </pre>
 <br />
-<br />
 <h3>Options you can customize</h3>
-<br />
-<br />
 <pre class="line-numbers">
 <code class="language-html">
 $('#slider').fadeslider({
