@@ -72,7 +72,7 @@
                                 <li>Selection any single or all effets  <span class="glyphicon glyphicon-ok col-grn"></span></li>
                                 <li>Works in all major browsers for desktop and mobile  <span class="glyphicon glyphicon-ok col-grn"></span></li>
                                 <li>7kb minified <span class="glyphicon glyphicon-ok col-grn"></span></li>
-                                <li>included JavaScript animation <span class="glyphicon glyphicon-ok col-grn"></span></li>
+                                <li>Included JavaScript animation <span class="glyphicon glyphicon-ok col-grn"></span></li>
                                 <li>Settings timeout durations <span class="glyphicon glyphicon-ok col-grn"></span></li>
                             </ul>
                         </article>
